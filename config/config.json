@@ -1,0 +1,78 @@
+{
+	"init-processes": [
+		{
+			"id": 4050,
+			"port": 3000,
+			"status": "running",
+			"script": "/Vo1lumes/DATA/DEV/cmd-tool/run-script/scripts/test1.js"
+		},
+		{
+			"id": 4185,
+			"port": 3002,
+			"status": "running",
+			"script": "/Volumes/DATA/DEV/cmd-tool/run-script/scripts/test1.js"
+		},
+		{
+			"id": 4213,
+			"port": 3001,
+			"status": "running",
+			"script": "/Volumes/DATA/DEV/cmd-tool/run-script/scripts/test1.js"
+		},
+		{
+			"id": 4241,
+			"port": 3003,
+			"status": "running",
+			"script": "/Volumes/DATA/DEV/cmd-tool/run-script/scripts/test1.js"
+		},
+		{
+			"id": 4257,
+			"port": 3004,
+			"status": "running",
+			"script": "/Volumes/DATA/DEV/cmd-tool/run-script/scripts/test1.js"
+		}
+	],
+	"processes": [
+		{
+			"id": 3001,
+			"port": 2000,
+			"status": "stopped",
+			"script": "/Volumes/DATA/DEV/cmd-tool/run-script/scripts/test1.js"
+		},
+		{
+			"id": 3092,
+			"port": 2001,
+			"status": "stopped",
+			"script": "/Volumes/DATA/DEV/cmd-tool/run-script/scripts/test1.js"
+		},
+		{
+			"id": 3112,
+			"port": 2002,
+			"status": "stopped",
+			"script": "/Volumes/DATA/DEV/cmd-tool/run-script/scripts/test1.js"
+		},
+		{
+			"id": 3120,
+			"port": 2003,
+			"status": "stopped",
+			"script": "/Volumes/DATA/DEV/cmd-tool/run-script/scripts/test1.js"
+		},
+		{
+			"id": 3515,
+			"port": 3000,
+			"status": "running",
+			"script": "/Volumes/DATA/DEV/cmd-tool/run-script/scripts/template.js"
+		},
+		{
+			"id": 3550,
+			"port": 3001,
+			"status": "stopped",
+			"script": "/Volumes/DATA/DEV/cmd-tool/run-script/scripts/auth.js"
+		},
+		{
+			"id": 3557,
+			"port": 3002,
+			"status": "running",
+			"script": "/Volumes/DATA/DEV/cmd-tool/run-script/scripts/service.js"
+		}
+	]
+}
