@@ -39,6 +39,7 @@ Ex:
  $ gota list
 ```
 EX:
+
 ![List](./images/list.png)
 
 ### Stop App
@@ -53,14 +54,16 @@ If you don't remember id, you don't need to put id.
 ``` bash
  $ gota stop --id <id>
 ```
-gota
 ![Stop](./images/stop1.png)
 
 EX1:
+
 ![Stop](./images/stop2.png)
 
 EX2: don't input id, there is a selection appeared.
+
 ![Stop](./images/stop3.png)
 
 select one of them and the selected app will be stopped.
+
 ![stop](./images/stop4.png)
